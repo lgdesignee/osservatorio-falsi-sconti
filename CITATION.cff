@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Se usi questi dati, cita Prezzi in Vista con il link all'osservatorio."
+type: dataset
+title: "Osservatorio dei falsi sconti nei volantini italiani"
+abstract: "Monthly open data on discounts advertised in Italian retail flyers for consumer electronics and home appliances, compared with online prices for the same model code."
+authors:
+  - name: "Prezzi in Vista (LG Design OÜ)"
+    email: redazione@prezzinvista.it
+    website: "https://www.prezzinvista.it/"
+url: "https://www.prezzinvista.it/falsi-sconti/"
+repository-code: "https://github.com/lgdesignee/osservatorio-falsi-sconti"
+license: CC-BY-4.0
+keywords:
+  - fake discounts
+  - falsi sconti
+  - retail flyers
+  - volantini
+  - price comparison
+  - Italy
+  - consumer electronics
+  - black friday
