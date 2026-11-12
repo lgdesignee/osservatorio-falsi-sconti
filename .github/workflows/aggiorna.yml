@@ -13,7 +13,7 @@ jobs:
   aggiorna:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Scarica
         run: |
           curl -fsSL -A "osservatorio-falsi-sconti (GitHub Actions)" https://www.prezzinvista.it/falsi-sconti/dati.json -o data/falsi-sconti.json.nuovo
@@ -24,7 +24,7 @@ jobs:
           else
             rm -f data/bf.nuovo
           fi
-          python scripts/csv.py
+          python scripts/tabelle.py
       - name: Salva
         run: |
           git config user.name "github-actions[bot]"

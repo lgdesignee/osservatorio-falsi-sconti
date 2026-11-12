@@ -1,7 +1,7 @@
 """Dal file JSON dell'osservatorio alle tabelle CSV: un mese per riga, una catena per riga,
 e i casi del mese (i peggiori e quelli dove il volantino conviene).
 
-Uso: python scripts/csv.py   (legge data/falsi-sconti.json, scrive data/*.csv)
+Uso: python scripts/tabelle.py   (legge data/falsi-sconti.json, scrive data/*.csv)
 """
 import csv
 import json
