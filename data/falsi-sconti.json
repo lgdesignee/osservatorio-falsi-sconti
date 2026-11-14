@@ -4,7 +4,7 @@
  "license": "CC BY 4.0 — cite Prezzi in Vista and link to the page",
  "page": "https://www.prezzinvista.it/falsi-sconti/",
  "method": "https://www.prezzinvista.it/falsi-sconti/#metodo",
- "updated_at": "2026-11-13T02:20:08.518Z",
+ "updated_at": "2026-11-13T20:16:13.573Z",
  "definitions": {
   "discounted_offers_compared": "flyer offers with a printed previous price and a printed model code, compared with an online offer (new items only) whose title carries the same model code. Recomputed on 12 October 2026 with this stricter rule: offers identified by name only are no longer counted",
   "cheaper_online": "the saved online price is at least 3% below the flyer price",
@@ -21,23 +21,23 @@
    "month": "2026-11",
    "url": "https://www.prezzinvista.it/falsi-sconti/2026-11/",
    "summary": {
-    "discounted_offers_compared": 386,
-    "distinct_products": 345,
+    "discounted_offers_compared": 390,
+    "distinct_products": 347,
     "cheaper_online": 98,
     "cheaper_online_percent": 25,
-    "cheaper_in_flyer": 185,
+    "cheaper_in_flyer": 189,
     "cheaper_in_flyer_percent": 48,
     "similar_price": 103,
     "similar_price_percent": 27,
     "certified_fake_discounts": 33,
-    "certified_real_discounts": 103,
+    "certified_real_discounts": 106,
     "median_saving_online_percent": 12.5
    },
    "funnel": {
-    "flyer_offers_with_printed_previous_price": 34497,
-    "with_printed_model_code": 793,
-    "with_online_price_same_code": 534,
-    "compared_after_removing_duplicates_and_conditional_prices": 386
+    "flyer_offers_with_printed_previous_price": 35178,
+    "with_printed_model_code": 800,
+    "with_online_price_same_code": 538,
+    "compared_after_removing_duplicates_and_conditional_prices": 390
    },
    "chains": [
     {
@@ -243,6 +243,23 @@
    ],
    "flyer_wins": [
     {
+     "product": "Samsung GALAXY TAB S10 FE+ TABLET SM-X620NZAREUE",
+     "chain": "comet",
+     "chain_name": "Comet",
+     "also_in_flyers_of": [],
+     "flyer_price_eur": 499,
+     "flyer_previous_price_eur": 699,
+     "declared_discount_percent": 29,
+     "online_price_eur": 839.95,
+     "online_shop": "eBay · eeeshop",
+     "online_vs_flyer_percent": 68,
+     "certified_fake_discount": false,
+     "valid_from": "2026-11-12",
+     "valid_until": "2026-11-30",
+     "flyer_page": 10,
+     "url": "https://www.prezzinvista.it/volantino-comet-da-sfogliare/#p10-2"
+    },
+    {
      "product": "Lenovo IDEAPAD SLIM 3I 83RR010KIX",
      "chain": "euronics",
      "chain_name": "Euronics",
@@ -309,23 +326,6 @@
      "valid_until": "2026-11-05",
      "flyer_page": 3,
      "url": "https://www.prezzinvista.it/volantino-elettrosintesi-da-sfogliare/#p3-5"
-    },
-    {
-     "product": "Samsung QE77S90HATXZT - OLED SMART TV 77\"",
-     "chain": "euronics",
-     "chain_name": "Euronics",
-     "also_in_flyers_of": [],
-     "flyer_price_eur": 1999,
-     "flyer_previous_price_eur": 3199,
-     "declared_discount_percent": 38,
-     "online_price_eur": 2199,
-     "online_shop": "Mediaworld.it",
-     "online_vs_flyer_percent": 10,
-     "certified_fake_discount": false,
-     "valid_from": "2026-10-29",
-     "valid_until": "2026-11-11",
-     "flyer_page": 3,
-     "url": "https://www.prezzinvista.it/volantino-euronics-da-sfogliare/#p3-1"
     }
    ]
   },
@@ -333,23 +333,23 @@
    "month": "2026-10",
    "url": "https://www.prezzinvista.it/falsi-sconti/2026-10/",
    "summary": {
-    "discounted_offers_compared": 938,
-    "distinct_products": 696,
+    "discounted_offers_compared": 937,
+    "distinct_products": 695,
     "cheaper_online": 312,
     "cheaper_online_percent": 33,
-    "cheaper_in_flyer": 387,
+    "cheaper_in_flyer": 386,
     "cheaper_in_flyer_percent": 41,
     "similar_price": 239,
     "similar_price_percent": 26,
     "certified_fake_discounts": 129,
-    "certified_real_discounts": 230,
+    "certified_real_discounts": 229,
     "median_saving_online_percent": 10.64
    },
    "funnel": {
     "flyer_offers_with_printed_previous_price": 53046,
     "with_printed_model_code": 1802,
-    "with_online_price_same_code": 1162,
-    "compared_after_removing_duplicates_and_conditional_prices": 938
+    "with_online_price_same_code": 1161,
+    "compared_after_removing_duplicates_and_conditional_prices": 937
    },
    "chains": [
     {
@@ -369,15 +369,15 @@
     {
      "chain": "leonardelli",
      "chain_name": "Leonardelli",
-     "discounted_offers_compared": 105,
+     "discounted_offers_compared": 104,
      "cheaper_online": 42,
      "cheaper_online_percent": 40,
-     "cheaper_in_flyer": 38,
+     "cheaper_in_flyer": 37,
      "cheaper_in_flyer_percent": 36,
      "similar_price": 25,
      "similar_price_percent": 24,
      "certified_fake_discounts": 17,
-     "certified_real_discounts": 23,
+     "certified_real_discounts": 22,
      "median_saving_online_percent": 9.87
     },
     {
