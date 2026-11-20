@@ -4,7 +4,7 @@
  "license": "CC BY 4.0 — cite Prezzi in Vista and link to the page",
  "page": "https://www.prezzinvista.it/falsi-sconti/",
  "method": "https://www.prezzinvista.it/falsi-sconti/#metodo",
- "updated_at": "2026-11-17T14:21:39.875Z",
+ "updated_at": "2026-11-18T19:16:53.785Z",
  "definitions": {
   "discounted_offers_compared": "flyer offers with a printed previous price and a printed model code, compared with an online offer (new items only) whose title carries the same model code. Recomputed on 12 October 2026 with this stricter rule: offers identified by name only are no longer counted",
   "cheaper_online": "the saved online price is at least 3% below the flyer price",
@@ -21,23 +21,23 @@
    "month": "2026-11",
    "url": "https://www.prezzinvista.it/falsi-sconti/2026-11/",
    "summary": {
-    "discounted_offers_compared": 410,
-    "distinct_products": 364,
+    "discounted_offers_compared": 409,
+    "distinct_products": 363,
     "cheaper_online": 102,
     "cheaper_online_percent": 25,
-    "cheaper_in_flyer": 207,
+    "cheaper_in_flyer": 206,
     "cheaper_in_flyer_percent": 50,
     "similar_price": 101,
     "similar_price_percent": 25,
     "certified_fake_discounts": 34,
-    "certified_real_discounts": 119,
+    "certified_real_discounts": 118,
     "median_saving_online_percent": 12.5
    },
    "funnel": {
-    "flyer_offers_with_printed_previous_price": 38245,
-    "with_printed_model_code": 902,
-    "with_online_price_same_code": 606,
-    "compared_after_removing_duplicates_and_conditional_prices": 410
+    "flyer_offers_with_printed_previous_price": 39247,
+    "with_printed_model_code": 908,
+    "with_online_price_same_code": 610,
+    "compared_after_removing_duplicates_and_conditional_prices": 409
    },
    "chains": [
     {
@@ -325,21 +325,21 @@
      "url": "https://www.prezzinvista.it/volantino-leonardelli-da-sfogliare/#p2-6"
     },
     {
-     "product": "Samsung GALAXY TAB S10 FE+ TABLET SM-X620NZAREUE",
-     "chain": "comet",
-     "chain_name": "Comet",
+     "product": "Lenovo IDEAPAD SLIM 3I 83RR010KIX",
+     "chain": "euronics",
+     "chain_name": "Euronics",
      "also_in_flyers_of": [],
-     "flyer_price_eur": 499,
-     "flyer_previous_price_eur": 699,
-     "declared_discount_percent": 29,
-     "online_price_eur": 839.95,
-     "online_shop": "eBay · eeeshop",
-     "online_vs_flyer_percent": 68,
+     "flyer_price_eur": 699.99,
+     "flyer_previous_price_eur": 1039,
+     "declared_discount_percent": 33,
+     "online_price_eur": 1019.9,
+     "online_shop": "Assperr.it",
+     "online_vs_flyer_percent": 46,
      "certified_fake_discount": false,
      "valid_from": "2026-11-12",
      "valid_until": "2026-11-30",
-     "flyer_page": 10,
-     "url": "https://www.prezzinvista.it/volantino-comet-da-sfogliare/#p10-2"
+     "flyer_page": 16,
+     "url": "https://www.prezzinvista.it/volantino-euronics-da-sfogliare/#p16-2"
     }
    ]
   },
