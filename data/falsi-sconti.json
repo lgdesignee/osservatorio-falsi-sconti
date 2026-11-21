@@ -4,7 +4,7 @@
  "license": "CC BY 4.0 — cite Prezzi in Vista and link to the page",
  "page": "https://www.prezzinvista.it/falsi-sconti/",
  "method": "https://www.prezzinvista.it/falsi-sconti/#metodo",
- "updated_at": "2026-11-18T19:16:53.785Z",
+ "updated_at": "2026-11-20T14:04:01.501Z",
  "definitions": {
   "discounted_offers_compared": "flyer offers with a printed previous price and a printed model code, compared with an online offer (new items only) whose title carries the same model code. Recomputed on 12 October 2026 with this stricter rule: offers identified by name only are no longer counted",
   "cheaper_online": "the saved online price is at least 3% below the flyer price",
@@ -21,52 +21,52 @@
    "month": "2026-11",
    "url": "https://www.prezzinvista.it/falsi-sconti/2026-11/",
    "summary": {
-    "discounted_offers_compared": 409,
-    "distinct_products": 363,
-    "cheaper_online": 102,
-    "cheaper_online_percent": 25,
-    "cheaper_in_flyer": 206,
-    "cheaper_in_flyer_percent": 50,
-    "similar_price": 101,
+    "discounted_offers_compared": 447,
+    "distinct_products": 394,
+    "cheaper_online": 103,
+    "cheaper_online_percent": 23,
+    "cheaper_in_flyer": 231,
+    "cheaper_in_flyer_percent": 52,
+    "similar_price": 113,
     "similar_price_percent": 25,
     "certified_fake_discounts": 34,
-    "certified_real_discounts": 118,
-    "median_saving_online_percent": 12.5
+    "certified_real_discounts": 134,
+    "median_saving_online_percent": 12.47
    },
    "funnel": {
-    "flyer_offers_with_printed_previous_price": 39247,
-    "with_printed_model_code": 908,
-    "with_online_price_same_code": 610,
-    "compared_after_removing_duplicates_and_conditional_prices": 409
+    "flyer_offers_with_printed_previous_price": 45500,
+    "with_printed_model_code": 1035,
+    "with_online_price_same_code": 676,
+    "compared_after_removing_duplicates_and_conditional_prices": 447
    },
    "chains": [
     {
      "chain": "euronics",
      "chain_name": "Euronics",
-     "discounted_offers_compared": 212,
+     "discounted_offers_compared": 214,
      "cheaper_online": 68,
      "cheaper_online_percent": 32,
-     "cheaper_in_flyer": 78,
+     "cheaper_in_flyer": 79,
      "cheaper_in_flyer_percent": 37,
-     "similar_price": 66,
+     "similar_price": 67,
      "similar_price_percent": 31,
      "certified_fake_discounts": 25,
-     "certified_real_discounts": 42,
+     "certified_real_discounts": 43,
      "median_saving_online_percent": 12.63
     },
     {
      "chain": "expert",
      "chain_name": "Expert",
-     "discounted_offers_compared": 72,
-     "cheaper_online": 17,
-     "cheaper_online_percent": 24,
-     "cheaper_in_flyer": 40,
-     "cheaper_in_flyer_percent": 56,
-     "similar_price": 15,
-     "similar_price_percent": 20,
+     "discounted_offers_compared": 100,
+     "cheaper_online": 19,
+     "cheaper_online_percent": 19,
+     "cheaper_in_flyer": 55,
+     "cheaper_in_flyer_percent": 55,
+     "similar_price": 26,
+     "similar_price_percent": 26,
      "certified_fake_discounts": 4,
-     "certified_real_discounts": 17,
-     "median_saving_online_percent": 10.96
+     "certified_real_discounts": 28,
+     "median_saving_online_percent": 9.34
     },
     {
      "chain": "leonardelli",
@@ -81,6 +81,20 @@
      "certified_fake_discounts": 1,
      "certified_real_discounts": 18,
      "median_saving_online_percent": 10.34
+    },
+    {
+     "chain": "conad",
+     "chain_name": "Conad",
+     "discounted_offers_compared": 32,
+     "cheaper_online": 0,
+     "cheaper_online_percent": 0,
+     "cheaper_in_flyer": 31,
+     "cheaper_in_flyer_percent": 97,
+     "similar_price": 1,
+     "similar_price_percent": 3,
+     "certified_fake_discounts": 0,
+     "certified_real_discounts": 20,
+     "median_saving_online_percent": null
     }
    ],
    "worst_cases": [
@@ -117,6 +131,23 @@
      "valid_until": "2026-11-11",
      "flyer_page": 36,
      "url": "https://www.prezzinvista.it/volantino-euronics-da-sfogliare/#p36-2"
+    },
+    {
+     "product": "AEG ASCIUGATRICE SERIE 8000 ABSOLUTECARE XTR8HBGH9B",
+     "chain": "euronics",
+     "chain_name": "Euronics",
+     "also_in_flyers_of": [],
+     "flyer_price_eur": 999.99,
+     "flyer_previous_price_eur": 1249,
+     "declared_discount_percent": 20,
+     "online_price_eur": 799.04,
+     "online_shop": "eBay · prezzodigitale",
+     "online_vs_flyer_percent": -20,
+     "certified_fake_discount": true,
+     "valid_from": "2026-11-12",
+     "valid_until": "2026-11-30",
+     "flyer_page": 49,
+     "url": "https://www.prezzinvista.it/volantino-euronics-da-sfogliare/#p49-3"
     },
     {
      "product": "AEG LAVATRICE SERIE 7000 UNIVERSALDOSE XLR7FBGH10V4",
@@ -236,23 +267,6 @@
      "valid_until": "2026-11-04",
      "flyer_page": 26,
      "url": "https://www.prezzinvista.it/volantino-expert-da-sfogliare/#p26-1"
-    },
-    {
-     "product": "HAIER X SERIES 7 HD90-A367U1-IT ASCIUGATRICE LIBERA INSTALLAZIONE CARICAMENTO FRONTALE 9 KG BIANCO",
-     "chain": "expert",
-     "chain_name": "Expert",
-     "also_in_flyers_of": [],
-     "flyer_price_eur": 699,
-     "flyer_previous_price_eur": 737.9,
-     "declared_discount_percent": 5,
-     "online_price_eur": 584.49,
-     "online_shop": "Amazon",
-     "online_vs_flyer_percent": -16,
-     "certified_fake_discount": true,
-     "valid_from": "2026-10-22",
-     "valid_until": "2026-11-04",
-     "flyer_page": 26,
-     "url": "https://www.prezzinvista.it/volantino-expert-da-sfogliare/#p26-4"
     }
    ],
    "flyer_wins": [
@@ -325,21 +339,21 @@
      "url": "https://www.prezzinvista.it/volantino-leonardelli-da-sfogliare/#p2-6"
     },
     {
-     "product": "Lenovo IDEAPAD SLIM 3I 83RR010KIX",
-     "chain": "euronics",
-     "chain_name": "Euronics",
+     "product": "Samsung GALAXY TAB S10 FE+ TABLET SM-X620NZAREUE",
+     "chain": "comet",
+     "chain_name": "Comet",
      "also_in_flyers_of": [],
-     "flyer_price_eur": 699.99,
-     "flyer_previous_price_eur": 1039,
-     "declared_discount_percent": 33,
-     "online_price_eur": 1019.9,
-     "online_shop": "Assperr.it",
-     "online_vs_flyer_percent": 46,
+     "flyer_price_eur": 499,
+     "flyer_previous_price_eur": 699,
+     "declared_discount_percent": 29,
+     "online_price_eur": 818.94,
+     "online_shop": "Price1",
+     "online_vs_flyer_percent": 64,
      "certified_fake_discount": false,
      "valid_from": "2026-11-12",
      "valid_until": "2026-11-30",
-     "flyer_page": 16,
-     "url": "https://www.prezzinvista.it/volantino-euronics-da-sfogliare/#p16-2"
+     "flyer_page": 10,
+     "url": "https://www.prezzinvista.it/volantino-comet-da-sfogliare/#p10-2"
     }
    ]
   },
