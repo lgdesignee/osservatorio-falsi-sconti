@@ -4,7 +4,7 @@
  "license": "CC BY 4.0 — cite Prezzi in Vista and link to the page",
  "page": "https://www.prezzinvista.it/falsi-sconti/",
  "method": "https://www.prezzinvista.it/falsi-sconti/#metodo",
- "updated_at": "2026-11-20T14:04:01.501Z",
+ "updated_at": "2026-11-21T13:25:32.265Z",
  "definitions": {
   "discounted_offers_compared": "flyer offers with a printed previous price and a printed model code, compared with an online offer (new items only) whose title carries the same model code. Recomputed on 12 October 2026 with this stricter rule: offers identified by name only are no longer counted",
   "cheaper_online": "the saved online price is at least 3% below the flyer price",
@@ -21,34 +21,34 @@
    "month": "2026-11",
    "url": "https://www.prezzinvista.it/falsi-sconti/2026-11/",
    "summary": {
-    "discounted_offers_compared": 447,
-    "distinct_products": 394,
-    "cheaper_online": 103,
+    "discounted_offers_compared": 451,
+    "distinct_products": 397,
+    "cheaper_online": 104,
     "cheaper_online_percent": 23,
-    "cheaper_in_flyer": 231,
+    "cheaper_in_flyer": 233,
     "cheaper_in_flyer_percent": 52,
-    "similar_price": 113,
+    "similar_price": 114,
     "similar_price_percent": 25,
     "certified_fake_discounts": 34,
-    "certified_real_discounts": 134,
-    "median_saving_online_percent": 12.47
+    "certified_real_discounts": 136,
+    "median_saving_online_percent": 12.48
    },
    "funnel": {
-    "flyer_offers_with_printed_previous_price": 45500,
-    "with_printed_model_code": 1035,
-    "with_online_price_same_code": 676,
-    "compared_after_removing_duplicates_and_conditional_prices": 447
+    "flyer_offers_with_printed_previous_price": 45773,
+    "with_printed_model_code": 1038,
+    "with_online_price_same_code": 680,
+    "compared_after_removing_duplicates_and_conditional_prices": 451
    },
    "chains": [
     {
      "chain": "euronics",
      "chain_name": "Euronics",
-     "discounted_offers_compared": 214,
+     "discounted_offers_compared": 215,
      "cheaper_online": 68,
      "cheaper_online_percent": 32,
      "cheaper_in_flyer": 79,
      "cheaper_in_flyer_percent": 37,
-     "similar_price": 67,
+     "similar_price": 68,
      "similar_price_percent": 31,
      "certified_fake_discounts": 25,
      "certified_real_discounts": 43,
