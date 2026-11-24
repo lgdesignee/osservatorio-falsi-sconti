@@ -4,7 +4,7 @@
  "license": "CC BY 4.0 — cite Prezzi in Vista and link to the page",
  "page": "https://www.prezzinvista.it/falsi-sconti/",
  "method": "https://www.prezzinvista.it/falsi-sconti/#metodo",
- "updated_at": "2026-11-22T20:18:42.978Z",
+ "updated_at": "2026-11-24T08:23:02.027Z",
  "definitions": {
   "discounted_offers_compared": "flyer offers with a printed previous price and a printed model code, compared with an online offer (new items only) whose title carries the same model code. Recomputed on 12 October 2026 with this stricter rule: offers identified by name only are no longer counted",
   "cheaper_online": "the saved online price is at least 3% below the flyer price",
@@ -21,52 +21,52 @@
    "month": "2026-11",
    "url": "https://www.prezzinvista.it/falsi-sconti/2026-11/",
    "summary": {
-    "discounted_offers_compared": 451,
-    "distinct_products": 397,
-    "cheaper_online": 104,
-    "cheaper_online_percent": 23,
-    "cheaper_in_flyer": 234,
-    "cheaper_in_flyer_percent": 52,
-    "similar_price": 113,
+    "discounted_offers_compared": 481,
+    "distinct_products": 419,
+    "cheaper_online": 116,
+    "cheaper_online_percent": 24,
+    "cheaper_in_flyer": 244,
+    "cheaper_in_flyer_percent": 51,
+    "similar_price": 121,
     "similar_price_percent": 25,
-    "certified_fake_discounts": 34,
-    "certified_real_discounts": 136,
-    "median_saving_online_percent": 12.48
+    "certified_fake_discounts": 40,
+    "certified_real_discounts": 142,
+    "median_saving_online_percent": 12.02
    },
    "funnel": {
-    "flyer_offers_with_printed_previous_price": 45881,
-    "with_printed_model_code": 1038,
-    "with_online_price_same_code": 680,
-    "compared_after_removing_duplicates_and_conditional_prices": 451
+    "flyer_offers_with_printed_previous_price": 50703,
+    "with_printed_model_code": 1131,
+    "with_online_price_same_code": 735,
+    "compared_after_removing_duplicates_and_conditional_prices": 481
    },
    "chains": [
     {
      "chain": "euronics",
      "chain_name": "Euronics",
      "discounted_offers_compared": 215,
-     "cheaper_online": 68,
-     "cheaper_online_percent": 32,
+     "cheaper_online": 67,
+     "cheaper_online_percent": 31,
      "cheaper_in_flyer": 80,
      "cheaper_in_flyer_percent": 37,
-     "similar_price": 67,
-     "similar_price_percent": 31,
+     "similar_price": 68,
+     "similar_price_percent": 32,
      "certified_fake_discounts": 25,
      "certified_real_discounts": 43,
-     "median_saving_online_percent": 12.63
+     "median_saving_online_percent": 12.73
     },
     {
      "chain": "expert",
      "chain_name": "Expert",
-     "discounted_offers_compared": 100,
-     "cheaper_online": 19,
+     "discounted_offers_compared": 103,
+     "cheaper_online": 20,
      "cheaper_online_percent": 19,
-     "cheaper_in_flyer": 55,
+     "cheaper_in_flyer": 57,
      "cheaper_in_flyer_percent": 55,
      "similar_price": 26,
      "similar_price_percent": 26,
-     "certified_fake_discounts": 4,
-     "certified_real_discounts": 28,
-     "median_saving_online_percent": 9.34
+     "certified_fake_discounts": 5,
+     "certified_real_discounts": 29,
+     "median_saving_online_percent": 10.15
     },
     {
      "chain": "leonardelli",
