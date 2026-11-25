@@ -4,7 +4,7 @@
  "license": "CC BY 4.0 — cite Prezzi in Vista and link to the page",
  "page": "https://www.prezzinvista.it/falsi-sconti/",
  "method": "https://www.prezzinvista.it/falsi-sconti/#metodo",
- "updated_at": "2026-11-24T08:23:02.027Z",
+ "updated_at": "2026-11-24T15:56:05.008Z",
  "definitions": {
   "discounted_offers_compared": "flyer offers with a printed previous price and a printed model code, compared with an online offer (new items only) whose title carries the same model code. Recomputed on 12 October 2026 with this stricter rule: offers identified by name only are no longer counted",
   "cheaper_online": "the saved online price is at least 3% below the flyer price",
@@ -21,23 +21,23 @@
    "month": "2026-11",
    "url": "https://www.prezzinvista.it/falsi-sconti/2026-11/",
    "summary": {
-    "discounted_offers_compared": 481,
-    "distinct_products": 419,
-    "cheaper_online": 116,
-    "cheaper_online_percent": 24,
-    "cheaper_in_flyer": 244,
-    "cheaper_in_flyer_percent": 51,
-    "similar_price": 121,
-    "similar_price_percent": 25,
-    "certified_fake_discounts": 40,
-    "certified_real_discounts": 142,
-    "median_saving_online_percent": 12.02
+    "discounted_offers_compared": 725,
+    "distinct_products": 560,
+    "cheaper_online": 190,
+    "cheaper_online_percent": 26,
+    "cheaper_in_flyer": 322,
+    "cheaper_in_flyer_percent": 44,
+    "similar_price": 213,
+    "similar_price_percent": 30,
+    "certified_fake_discounts": 64,
+    "certified_real_discounts": 184,
+    "median_saving_online_percent": 10.09
    },
    "funnel": {
-    "flyer_offers_with_printed_previous_price": 50703,
-    "with_printed_model_code": 1131,
-    "with_online_price_same_code": 735,
-    "compared_after_removing_duplicates_and_conditional_prices": 481
+    "flyer_offers_with_printed_previous_price": 51796,
+    "with_printed_model_code": 1445,
+    "with_online_price_same_code": 996,
+    "compared_after_removing_duplicates_and_conditional_prices": 725
    },
    "chains": [
     {
@@ -52,7 +52,49 @@
      "similar_price_percent": 32,
      "certified_fake_discounts": 25,
      "certified_real_discounts": 43,
-     "median_saving_online_percent": 12.73
+     "median_saving_online_percent": 13.49
+    },
+    {
+     "chain": "trony",
+     "chain_name": "Trony",
+     "discounted_offers_compared": 132,
+     "cheaper_online": 41,
+     "cheaper_online_percent": 31,
+     "cheaper_in_flyer": 44,
+     "cheaper_in_flyer_percent": 33,
+     "similar_price": 47,
+     "similar_price_percent": 36,
+     "certified_fake_discounts": 12,
+     "certified_real_discounts": 23,
+     "median_saving_online_percent": 8.05
+    },
+    {
+     "chain": "elettrosintesi",
+     "chain_name": "Elettrosintesi",
+     "discounted_offers_compared": 33,
+     "cheaper_online": 10,
+     "cheaper_online_percent": 30,
+     "cheaper_in_flyer": 12,
+     "cheaper_in_flyer_percent": 36,
+     "similar_price": 11,
+     "similar_price_percent": 34,
+     "certified_fake_discounts": 5,
+     "certified_real_discounts": 8,
+     "median_saving_online_percent": 7.72
+    },
+    {
+     "chain": "leonardelli",
+     "chain_name": "Leonardelli",
+     "discounted_offers_compared": 125,
+     "cheaper_online": 30,
+     "cheaper_online_percent": 24,
+     "cheaper_in_flyer": 54,
+     "cheaper_in_flyer_percent": 43,
+     "similar_price": 41,
+     "similar_price_percent": 33,
+     "certified_fake_discounts": 9,
+     "certified_real_discounts": 32,
+     "median_saving_online_percent": 7.84
     },
     {
      "chain": "expert",
@@ -67,20 +109,6 @@
      "certified_fake_discounts": 5,
      "certified_real_discounts": 29,
      "median_saving_online_percent": 10.15
-    },
-    {
-     "chain": "leonardelli",
-     "chain_name": "Leonardelli",
-     "discounted_offers_compared": 33,
-     "cheaper_online": 2,
-     "cheaper_online_percent": 6,
-     "cheaper_in_flyer": 26,
-     "cheaper_in_flyer_percent": 79,
-     "similar_price": 5,
-     "similar_price_percent": 15,
-     "certified_fake_discounts": 1,
-     "certified_real_discounts": 18,
-     "median_saving_online_percent": 10.34
     },
     {
      "chain": "conad",
@@ -148,6 +176,25 @@
      "valid_until": "2026-11-30",
      "flyer_page": 49,
      "url": "https://www.prezzinvista.it/volantino-euronics-da-sfogliare/#p49-3"
+    },
+    {
+     "product": "SAMSUNG TV OLED 4K 65\" QE65S90HAEXZT",
+     "chain": "leonardelli",
+     "chain_name": "Leonardelli",
+     "also_in_flyers_of": [
+      "Trony"
+     ],
+     "flyer_price_eur": 1599,
+     "flyer_previous_price_eur": 2599,
+     "declared_discount_percent": 38,
+     "online_price_eur": 1399,
+     "online_shop": "Mediaworld.it",
+     "online_vs_flyer_percent": -13,
+     "certified_fake_discount": true,
+     "valid_from": "2026-11-24",
+     "valid_until": "2026-12-02",
+     "flyer_page": 16,
+     "url": "https://www.prezzinvista.it/volantino-leonardelli-da-sfogliare/#p16-1"
     },
     {
      "product": "AEG LAVATRICE SERIE 7000 UNIVERSALDOSE XLR7FBGH10V4",
@@ -235,38 +282,21 @@
      "url": "https://www.prezzinvista.it/volantino-euronics-da-sfogliare/#p32-1"
     },
     {
-     "product": "Samsung Frigorifero Combinato RB33B610ESA",
+     "product": "LG LAVASTOVIGLIE DA INCASSO DB375TXS",
      "chain": "euronics",
      "chain_name": "Euronics",
      "also_in_flyers_of": [],
-     "flyer_price_eur": 499.99,
-     "flyer_previous_price_eur": 1199,
-     "declared_discount_percent": 58,
-     "online_price_eur": 369,
-     "online_shop": "eBay · outletstocksrl",
-     "online_vs_flyer_percent": -26,
+     "flyer_price_eur": 549.99,
+     "flyer_previous_price_eur": 799,
+     "declared_discount_percent": 31,
+     "online_price_eur": 417.48,
+     "online_shop": "Amazon",
+     "online_vs_flyer_percent": -24,
      "certified_fake_discount": true,
      "valid_from": "2026-11-12",
      "valid_until": "2026-11-30",
-     "flyer_page": 48,
-     "url": "https://www.prezzinvista.it/volantino-euronics-da-sfogliare/#p48-6"
-    },
-    {
-     "product": "ELECTROLUX EW7H4E10BY ASCIUGATRICE LIBERA INSTALLAZIONE CARICAMENTO FRONTALE 10 KG BIANCO",
-     "chain": "expert",
-     "chain_name": "Expert",
-     "also_in_flyers_of": [],
-     "flyer_price_eur": 799,
-     "flyer_previous_price_eur": 826.9,
-     "declared_discount_percent": 3,
-     "online_price_eur": 669.99,
-     "online_shop": "Amazon",
-     "online_vs_flyer_percent": -16,
-     "certified_fake_discount": true,
-     "valid_from": "2026-10-22",
-     "valid_until": "2026-11-04",
-     "flyer_page": 26,
-     "url": "https://www.prezzinvista.it/volantino-expert-da-sfogliare/#p26-1"
+     "flyer_page": 35,
+     "url": "https://www.prezzinvista.it/volantino-euronics-da-sfogliare/#p35-4"
     }
    ],
    "flyer_wins": [
