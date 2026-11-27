@@ -4,7 +4,7 @@
  "license": "CC BY 4.0 — cite Prezzi in Vista and link to the page",
  "page": "https://www.prezzinvista.it/falsi-sconti/",
  "method": "https://www.prezzinvista.it/falsi-sconti/#metodo",
- "updated_at": "2026-11-26T08:48:30.570Z",
+ "updated_at": "2026-11-27T05:18:46.669Z",
  "definitions": {
   "discounted_offers_compared": "flyer offers with a printed previous price and a printed model code, compared with an online offer (new items only) whose title carries the same model code. Recomputed on 12 October 2026 with this stricter rule: offers identified by name only are no longer counted",
   "cheaper_online": "the saved online price is at least 3% below the flyer price",
@@ -21,38 +21,38 @@
    "month": "2026-11",
    "url": "https://www.prezzinvista.it/falsi-sconti/2026-11/",
    "summary": {
-    "discounted_offers_compared": 774,
-    "distinct_products": 595,
-    "cheaper_online": 202,
+    "discounted_offers_compared": 780,
+    "distinct_products": 597,
+    "cheaper_online": 201,
     "cheaper_online_percent": 26,
-    "cheaper_in_flyer": 344,
+    "cheaper_in_flyer": 347,
     "cheaper_in_flyer_percent": 44,
-    "similar_price": 228,
+    "similar_price": 232,
     "similar_price_percent": 30,
     "certified_fake_discounts": 65,
-    "certified_real_discounts": 195,
-    "median_saving_online_percent": 10
+    "certified_real_discounts": 196,
+    "median_saving_online_percent": 10.01
    },
    "funnel": {
-    "flyer_offers_with_printed_previous_price": 53859,
-    "with_printed_model_code": 1605,
-    "with_online_price_same_code": 1079,
-    "compared_after_removing_duplicates_and_conditional_prices": 774
+    "flyer_offers_with_printed_previous_price": 55253,
+    "with_printed_model_code": 1628,
+    "with_online_price_same_code": 1084,
+    "compared_after_removing_duplicates_and_conditional_prices": 780
    },
    "chains": [
     {
      "chain": "trony",
      "chain_name": "Trony",
      "discounted_offers_compared": 132,
-     "cheaper_online": 42,
-     "cheaper_online_percent": 32,
-     "cheaper_in_flyer": 43,
+     "cheaper_online": 41,
+     "cheaper_online_percent": 31,
+     "cheaper_in_flyer": 44,
      "cheaper_in_flyer_percent": 33,
      "similar_price": 47,
-     "similar_price_percent": 35,
+     "similar_price_percent": 36,
      "certified_fake_discounts": 12,
      "certified_real_discounts": 23,
-     "median_saving_online_percent": 8.18
+     "median_saving_online_percent": 8.05
     },
     {
      "chain": "euronics",
@@ -113,15 +113,15 @@
     {
      "chain": "conad",
      "chain_name": "Conad",
-     "discounted_offers_compared": 32,
+     "discounted_offers_compared": 33,
      "cheaper_online": 0,
      "cheaper_online_percent": 0,
-     "cheaper_in_flyer": 31,
+     "cheaper_in_flyer": 32,
      "cheaper_in_flyer_percent": 97,
      "similar_price": 1,
      "similar_price_percent": 3,
      "certified_fake_discounts": 0,
-     "certified_real_discounts": 20,
+     "certified_real_discounts": 21,
      "median_saving_online_percent": null
     }
    ],
